@@ -1,5 +1,10 @@
 # my-repo-12
 ## Progress Log
+🔄 [2024-10-13 20:17:24] Successfully deployed. Found URL:
+https://steve-fd7c1--my-repo-12-my-app-zrm2ui69.web.app
+
+⏱️ Previous step took 38.51 seconds
+
 🔄 [2024-10-13 20:16:46] Deploying to Firebase
 
 ⏱️ Previous step took 1.59 seconds
